@@ -1,6 +1,6 @@
 # genetic
 
-A while back Roger Alsing [wrote a program which evolved the mona lisa](http://rogeralsing.com/2008/12/07/genetic-programming-evolution-of-mona-lisa/). I decided to write a similar program which accomplishes the same sort of goal: evolving an image. I use a different approach, but the biggest difference between my program and Roger's is that I provide a GUI.
+A while back Roger Alsing [wrote a program which evolved the Mona Lisa](http://rogeralsing.com/2008/12/07/genetic-programming-evolution-of-mona-lisa/). I decided to write a similar program which accomplishes the same sort of goal: evolving an image. I use a different approach, but the biggest difference between my program and Roger's is that I provide a GUI.
 
 ## Usage
 
